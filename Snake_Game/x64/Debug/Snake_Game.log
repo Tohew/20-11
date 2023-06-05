@@ -1,0 +1,5 @@
+﻿  Snake_Game.cpp
+D:\VS\Game_C++\Snake_Game\Snake_Game.cpp(101,14): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VS\Game_C++\Snake_Game\Snake_Game.cpp(106,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VS\Game_C++\Snake_Game\Snake_Game.cpp(120,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake_Game.vcxproj -> D:\VS\Game_C++\x64\Debug\Snake_Game.exe
